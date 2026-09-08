@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Ejemplo inventado. No es un CFDI, no tiene validez fiscal. -->
+<FiscalFacilDemo version="1" ficticio="true">
+  <Movimiento fecha="2026-09-07" concepto="Diseño de invitaciones de práctica" tipo="ingreso" monto="2320.50" folio="XML-DEMO-001" />
+  <Movimiento fecha="2026-09-07" concepto="Papelería de práctica" tipo="gasto" monto="350.25" folio="XML-DEMO-002" />
+</FiscalFacilDemo>
